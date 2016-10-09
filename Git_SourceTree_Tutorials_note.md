@@ -1,5 +1,7 @@
 ## 安裝 SourceTree。
 
+GOGO
+
 ## 操作SourceTree
 
 ### 建立一個 repository（錯誤版本。orz）
