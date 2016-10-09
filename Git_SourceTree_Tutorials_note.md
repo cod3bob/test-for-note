@@ -49,3 +49,6 @@ Done.
 
 ![Imgur](http://i.imgur.com/h29rCQd.png)
 
+所以我寫了什麼呢？有點亂無章法。
+
+So 要重哪裡開始修正？Wooow
